@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7c35a5f291ba604609a63c4efd0c44ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99017a058cb6edc19eac4bc8a02471f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f805801d798d1c978d31e64eff1c9d5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7fc4b017c96758e70378fc447e140d0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\318b3ec448f65a6bdc527d04ec047d50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\34b529df5b91e92ffde0a17d8946d455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0190c850487779c20db2029c0478f0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b42dbcc6ba9d2d5c9ed507e557d9bffd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f4509ee0157fc29e5a181f8cc4b0d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5c3a47ad67ae4a7e2cad6bc7c10f5d2f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cf4f62ff31cb408ffdb6d09386607b57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57881960e0a4e1d32ad49a94a41fd8f0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99017a058cb6edc19eac4bc8a02471f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99017a058cb6edc19eac4bc8a02471f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7c35a5f291ba604609a63c4efd0c44ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7c35a5f291ba604609a63c4efd0c44ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99017a058cb6edc19eac4bc8a02471f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f99017a058cb6edc19eac4bc8a02471f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f805801d798d1c978d31e64eff1c9d5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f805801d798d1c978d31e64eff1c9d5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7fc4b017c96758e70378fc447e140d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7fc4b017c96758e70378fc447e140d0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\318b3ec448f65a6bdc527d04ec047d50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\318b3ec448f65a6bdc527d04ec047d50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\34b529df5b91e92ffde0a17d8946d455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\34b529df5b91e92ffde0a17d8946d455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0190c850487779c20db2029c0478f0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0190c850487779c20db2029c0478f0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b42dbcc6ba9d2d5c9ed507e557d9bffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b42dbcc6ba9d2d5c9ed507e557d9bffd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f4509ee0157fc29e5a181f8cc4b0d0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3f4509ee0157fc29e5a181f8cc4b0d0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5c3a47ad67ae4a7e2cad6bc7c10f5d2f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5c3a47ad67ae4a7e2cad6bc7c10f5d2f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cf4f62ff31cb408ffdb6d09386607b57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cf4f62ff31cb408ffdb6d09386607b57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57881960e0a4e1d32ad49a94a41fd8f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57881960e0a4e1d32ad49a94a41fd8f0\AndroidManifest.xml:20:5-44
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidTemp\GoogleLearning\AndroidFund_0901\HelloSharedPrefs\app\src\main\AndroidManifest.xml
